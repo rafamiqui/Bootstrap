@@ -1,0 +1,14 @@
+.container-fluid{
+    display: inline-block;
+    width: 80%;
+    
+}
+.form-floating{
+    width: 100%;
+}
+header{
+    margin-bottom: 10px;
+}
+#pills-profile{
+    background-color: lightgray;
+}
